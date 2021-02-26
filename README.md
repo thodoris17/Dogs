@@ -3,7 +3,7 @@
 ## INTRODUCTION
 
 I want to mention that before starting, I timesloted this assignment to 3-5 hrs.
-In that timespan I didn't wanted to create something extra complicated, but mostly to show my view on code quality, testing and in general structure.
+In that timespan I didn't want to create something extra complicated, but mostly to show my view on code quality, testing and in general structure.
 ( tldr; Don't expect fancy UI :) )
 
 ## INSTALL
